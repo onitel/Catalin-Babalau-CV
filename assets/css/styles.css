@@ -170,9 +170,9 @@ body.scale-cv {
   transform: translate(5px, 0);
 }
 
-.scale-cv .experience__line {
+/* .scale-cv .experience__line {
   height: 110%;
-}
+} */
 
 .scale-cv .education__data,
 .scale-cv .experience__data {
@@ -182,10 +182,6 @@ body.scale-cv {
 .scale-cv .skills__name {
   margin-bottom: 0.25rem;
 }
-/* ---------------------------- margin top for exit pdf */
-/* .scale-cv .skills {
-  margin-top: 2.5rem;
-} */
 
 .scale-cv .interests__container {
   column-gap: 2.5rem;
@@ -443,10 +439,6 @@ img {
 .education__content,
 .experience__content {
   display: flex;
-}
-/* ---------------------------margin bottom for experience 1rem */
-.experience__content {
-  margin-bottom: 1rem;
 }
 
 .education__time,
