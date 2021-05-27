@@ -431,7 +431,7 @@ img {
 /*========== PROFILE ==========*/
 
 .profile__description {
-  text-align: center;
+  text-align: justify;
 }
 
 /*========== EDUCATION AND EXPERIENCE ==========*/
