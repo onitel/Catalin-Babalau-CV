@@ -591,7 +591,7 @@ a[href^='mailto'] {
   visibility: hidden;
 }
 
-.scrolltop_icon {
+.scrolltop__icon {
   font-size: 1.2rem;
   color: var(--text-color);
 }
